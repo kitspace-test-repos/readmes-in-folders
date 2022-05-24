@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -eu -o pipefail
+
+magick -gravity center -background black -fill white -size 200x100 caption:"$1" -extent 300x200 "$1"

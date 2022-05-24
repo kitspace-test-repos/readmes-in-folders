@@ -1,0 +1,5 @@
+multi:
+  project_1:
+    readme: folder_1/readme.md
+  project_2:
+    readme: folder_2/readme.md
